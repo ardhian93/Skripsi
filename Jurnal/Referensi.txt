@@ -1,0 +1,7 @@
+BAB 2
+Penjadwalan	: 
+KONI		: http://www.koni.or.id/index.php/id/about-us?showall=1&limitstart=
+Atlet		: https://www.academia.edu/attachments/35502051/download_file?st=MTQ1ODY1NTE0OSwxODUuNTYuMTM3LjExLDI0NzQ3MDky&s=swp-toolbar
+ABC		: http://jutisi.maranatha.edu/index.php/jui/article/download/38/36
+Java		: http://repository.usu.ac.id/bitstream/123456789/27226/4/Chapter%20II.pdf
+UML		: 
